@@ -28,37 +28,12 @@ Points are added **randomly distributed inside a circle** centered at the cursor
 
 ---
 
-## 🖥 Usage
-1. Launch the app in RStudio:
-   ```r
-   library(shiny)
-   runApp("path/to/SprayMapApp")
-   ```
-2. Use the **radio buttons** to select a class.
-3. Adjust **spray radius** and **intensity** sliders as needed.
-4. **Hold Shift** and **left click + drag** to draw points.
-5. View the counters for total and per-class points in the top right.
-6. Use **Download CSV** to save points.
-7. Use **Clear Points** to reset.
-
----
-
 ## 📦 Requirements
 - R (≥ 4.0.0)
 - Packages:
   ```r
   install.packages(c("shiny", "leaflet", "htmlwidgets"))
   ```
-
----
-
-## 📂 File structure
-```
-SprayMapApp/
-├── app.R          # Main Shiny application
-├── screenshot.png # Preview image (optional)
-└── README.md      # This file
-```
 
 ---
 

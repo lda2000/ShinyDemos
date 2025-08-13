@@ -3,6 +3,9 @@
 This Shiny application allows you to **draw points on an interactive Leaflet map** using a *spray effect*.  
 Points are added **randomly distributed inside a circle** centered at the cursor position while holding **Shift + Left Click**.
 
+- **Author**: [Luca Dell'Anna](https://www.linkedin.com/in/lucadellanna/) — Main developer of this Shiny application.
+- **First Author of Original Spray Logic**: [Joachim Schork](https://www.linkedin.com/in/joachim-schork) — Inspiration for the spray drawing method.
+
 ---
 
 ## 📸 Preview

@@ -3,8 +3,10 @@
 This Shiny application allows you to **draw points on an interactive Leaflet map** using a *spray effect*.  
 Points are added **randomly distributed inside a circle** centered at the cursor position while holding **Shift + Left Click**.
 
-- **Author for the geodetical features**: [Luca Dell'Anna](https://www.linkedin.com/in/lucadellanna/)
 - **Inspired by the LinkedIn post by**: [Joachim Schork](https://www.linkedin.com/in/joachim-schork)
+- **Geodetical features by**: [Luca Dell'Anna](https://www.linkedin.com/in/lucadellanna/)
+- **Original version by**: [Kent Oliver Bhupathi](https://www.linkedin.com/in/kentbhupathi/)
+
 
 ---
 

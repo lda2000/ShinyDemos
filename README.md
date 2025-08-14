@@ -28,19 +28,4 @@ Points are added **randomly distributed inside a circle** centered at the cursor
 
 ---
 
-## 📦 Requirements
-- R (≥ 4.0.0)
-- Packages:
-  ```r
-  install.packages(c("shiny", "leaflet", "htmlwidgets"))
-  ```
-
----
-
-## 👨‍💻 **Authors & Credits**
-- **Author**: [Luca Dell'Anna](https://www.linkedin.com/in/lucadellanna/) — Main developer of this Shiny application.
-- **First Author of Original Spray Logic**: [Joachim Schork](https://www.linkedin.com/in/joachim-schork) — Inspiration for the spray drawing method.
-
----
-
 **License**: MIT (feel free to use and modify with attribution)
